@@ -6,11 +6,11 @@ int main()
 {
     char l = 65;
     for(int i=0;i<=6;i++)
-    {
+      {
         l = 65;
         for(int j =0;j<=i;j++)
             {
-            cout <<l;
+             cout <<l;
             l++;
             }
             l--;
